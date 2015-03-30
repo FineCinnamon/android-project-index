@@ -9,4 +9,16 @@ Threading & Job Queues
 ----------------------
 * [Corleone][corleone-link]
 
+
+User interface
+--------------
+
+* [Material Examples][material-examples-link]
+
+Reference projects
+------------------
+* [Material Movies][material-movies]
+
 [corleone-link]: https://github.com/JorgeCastilloPrz/Corleone
+[material-examples-link]: https://github.com/saulmm/Android-Material-Examples
+[material-movies]: https://github.com/saulmm/Material-Movies
