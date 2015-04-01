@@ -34,3 +34,6 @@ User interface
 
 * [Wizard](https://github.com/PaNaVTEC/Wizard)  
   Wizard Encapsulates navigation operations between fragments of an activity using BackStack.
+
+* [Circular Reveal for Fragments](https://github.com/ferdy182/Android-CircularRevealFragment)
+  This project shows how to implement the circular reveal animation for fragments, as they require a different way of doing it than views
