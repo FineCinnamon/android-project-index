@@ -13,6 +13,8 @@ Reference projects
 * [Material Movies](https://github.com/saulmm/Material-Movies)  
   This projects support a series of articles about how to setup an android environment to develop an scalable, maintainable and testable projects.
 
+* [Sharing Accounts](https://github.com/alorma/SharingAccounts)  
+  This project shows how apps can share Accounts, and Account Authenticator.
 Threading & Job Queues
 ----------------------
 * [Coordinator](https://github.com/PaNaVTEC/Coordinator-java)  
