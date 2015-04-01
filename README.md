@@ -23,6 +23,9 @@ Threading & Job Queues
 
 User interface
 -------------- 
+* [Circular Reveal for Fragments](https://github.com/ferdy182/Android-CircularRevealFragment)  
+  This project shows how to implement the circular reveal animation for fragments, as they require a different way of doing it than views
+
 * [Drawable View](https://github.com/PaNaVTEC/DrawableView)  
   A view that allows to paint and saves the result as a bitmap
 
@@ -34,3 +37,5 @@ User interface
 
 * [Wizard](https://github.com/PaNaVTEC/Wizard)  
   Wizard Encapsulates navigation operations between fragments of an activity using BackStack.
+
+
