@@ -34,6 +34,9 @@ User interface
 * [Easy Recycler Adapters](https://github.com/cmc00022/easyrecycleradapters)  
   An extended RecyclerAdapter implementation that helps to avoid boiler plate and makes easy working with RecyclerView
 
+* [Material Animations](https://github.com/lgvalle/Material-Animations)  
+  Code samples of popular Material animations: Transitions, Shared Elements and Circular Reveal.
+
 * [Material Examples](https://github.com/saulmm/Android-Material-Examples)  
   Little bites of Material Design
 
