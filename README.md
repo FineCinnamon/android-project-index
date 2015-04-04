@@ -15,6 +15,7 @@ Reference projects
 
 * [Sharing Accounts](https://github.com/alorma/SharingAccounts)  
   This project shows how apps can share Accounts, and Account Authenticator.
+
 Threading & Job Queues
 ----------------------
 * [Coordinator](https://github.com/PaNaVTEC/Coordinator-java)  
@@ -34,13 +35,25 @@ User interface
 * [Easy Recycler Adapters](https://github.com/cmc00022/easyrecycleradapters)  
   An extended RecyclerAdapter implementation that helps to avoid boiler plate and makes easy working with RecyclerView
 
+* [FontPagerTitleStrip](https://github.com/Alexrs95/FontPagerTitleStrip)
+  Library that allows you to customize the font of a PagerTitleStrip.
+
 * [Material Animations](https://github.com/lgvalle/Material-Animations)  
   Code samples of popular Material animations: Transitions, Shared Elements and Circular Reveal.
 
 * [Material Examples](https://github.com/saulmm/Android-Material-Examples)  
   Little bites of Material Design
 
+* [RecyclerViewRenderers](https://github.com/Alexrs95/RecyclerViewRenderers)
+  Different layouts with different data in your RecyclerView using one adapter.
+
+* [WaveDrawable](https://github.com/Alexrs95/WaveDrawable)
+  Drawable animation inspired by Tinder.
+
 * [Wizard](https://github.com/PaNaVTEC/Wizard)  
   Wizard Encapsulates navigation operations between fragments of an activity using BackStack.
 
-
+Storage
+-------------- 
+* [Prefs](https://github.com/Alexrs95/Prefs)
+  Wrapper for Android Preferences which provides a fluid syntax.
