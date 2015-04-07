@@ -57,3 +57,12 @@ Storage
 -------------- 
 * [Prefs](https://github.com/Alexrs95/Prefs)
   Wrapper for Android Preferences which provides a fluid syntax.
+
+Google Map & Places
+-----------------------
+
+*[GoogleMap Version 2](https://github.com/sandeeplondhe/GoogleMapV2)
+This is a demo application showing how to use GoogleMap Version 2 in Android Application
+
+*[GooglePlaces](https://github.com/sandeeplondhe/GooglePlaces)
+Showing nearby places using Google Places API
