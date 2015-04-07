@@ -76,13 +76,13 @@ User interface
 * [Wizard](https://github.com/PaNaVTEC/Wizard)  
   Wizard Encapsulates navigation operations between fragments of an activity using BackStack.
 
-Storage
--------
-* [Prefs](https://github.com/Alexrs95/Prefs)
-  Wrapper for Android Preferences which provides a fluid syntax.
-
 Sms
 ---
 * [SmsRadar](https://github.com/tuenti/SmsRadar)
   Android library created to listen incoming and outgoing SMS's using content providers instead of broadcast receivers.
+
+Storage
+-------
+* [Prefs](https://github.com/Alexrs95/Prefs)
+  Wrapper for Android Preferences which provides a fluid syntax.
 
