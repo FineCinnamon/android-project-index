@@ -64,6 +64,9 @@ User interface
 * [Material Examples](https://github.com/saulmm/Android-Material-Examples)  
   Little bites of Material Design.
 
+* [Nox] (https://github.com/pedrovgs/Nox)
+  Android custom view created to show some little items with resources downloaded automatically which are drawn following a shape indicated by the library user.
+
 * [RecyclerViewRenderers](https://github.com/Alexrs95/RecyclerViewRenderers)
   Different layouts with different data in your RecyclerView using one adapter.
 
