@@ -55,6 +55,9 @@ User interface
 * [Easy Recycler Adapters](https://github.com/cmc00022/easyrecycleradapters)  
   An extended RecyclerAdapter implementation that helps to avoid boiler plate and makes easy working with RecyclerView.
 
+* [FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle)
+  Android library to provide a material progress circle around your FloatingActionButton. This component is compatible with any existent FAB.
+
 * [FontPagerTitleStrip](https://github.com/Alexrs95/FontPagerTitleStrip)
   Library that allows you to customize the font of a PagerTitleStrip.
 
