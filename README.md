@@ -40,6 +40,9 @@ Threading & Job Queues
 
 User interface
 -------------- 
+* [Badges](https://github.com/arturogutierrez/Badges)
+  Android library to provide an easy way to modify the app badge count on supported launchers.
+
 * [ButtonMenu](https://github.com/tuenti/ButtonMenu)  
   ButtonMenu is an Android library created to build user interfaces based on buttons. This library has been implemented using Model View ViewModel pattern combined with an Android custom view that extends LinearLayout.
 
