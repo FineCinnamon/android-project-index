@@ -40,6 +40,9 @@ Threading & Job Queues
 
 User interface
 -------------- 
+* [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders/)  
+  Android Open Source library providing an interesting fillable progress view working with SVG paths. This is a nice option too if you want to create an interesting branding logo for your app.
+
 * [ButtonMenu](https://github.com/tuenti/ButtonMenu)  
   ButtonMenu is an Android library created to build user interfaces based on buttons. This library has been implemented using Model View ViewModel pattern combined with an Android custom view that extends LinearLayout.
 
