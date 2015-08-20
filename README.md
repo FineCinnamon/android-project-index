@@ -43,7 +43,7 @@ User interface
 * [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders/)  
   Android Open Source library providing an interesting fillable progress view working with SVG paths. This is a nice option too if you want to create an interesting branding logo for your app.
 
-* [Badges](https://github.com/arturogutierrez/Badges)
+* [Badges](https://github.com/arturogutierrez/Badges)  
   Android library to provide an easy way to modify the app badge count on supported launchers.
 
 * [ButtonMenu](https://github.com/tuenti/ButtonMenu)  
