@@ -52,6 +52,9 @@ User interface
 * [Circular Reveal for Fragments](https://github.com/ferdy182/Android-CircularRevealFragment)  
   This project shows how to implement the circular reveal animation for fragments, as they require a different way of doing it than views.
 
+* [Collapsing Avatar Toolbar](https://github.com/Sloy/CollapsingAvatarToolbar)  
+  A reusable Collapsing Toolbar view with an avatar and title that moves and resizes with the scroll of the content.
+
 * [DraggablePanel](https://github.com/pedrovgs/DraggablePanel)  
   Android library used to create an awesome Android UI based on a draggable element similar to the last YouTube graphic component. 
 
