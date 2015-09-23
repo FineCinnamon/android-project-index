@@ -75,6 +75,9 @@ User interface
 
 * [Material Examples](https://github.com/saulmm/Android-Material-Examples)  
   Little bites of Material Design.
+  
+* [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)  
+  Cute library to implement SearchView in a Material Design Approach.
 
 * [Nox] (https://github.com/pedrovgs/Nox)
   Android custom view created to show some little items with resources downloaded automatically which are drawn following a shape indicated by the library user.
