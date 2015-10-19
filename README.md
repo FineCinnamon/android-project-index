@@ -10,6 +10,11 @@ Android TV
 * [Tuenti TV](https://github.com/pedrovgs/TuentiTV)  
   Tuenti application for Android TV created to show some of the most important features related to Android TV projects. This little sample uses mocked data to simulate an application working with information from Tuenti servers.
 
+IntelliJ / Android Studio Plugins
+---------------------------------
+* [Android WiFi ADB] (https://github.com/pedrovgs/AndroidWiFiADB/)
+  IntelliJ and Android Studio plugin created to quickly connect your Android device over WiFi to install, run and debug your applications without a USB connected. Press one button and forget about your USB cable.
+
 Loggers and Log Utilities
 -------------------------
 * [Lynx](https://github.com/pedrovgs/Lynx)  
